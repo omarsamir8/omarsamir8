@@ -1,5 +1,5 @@
 <h1 align='center'>
- <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Welcome! I'am Omar Samir (FrontEnd Develober)
+👋 Welcome! I'am Omar Samir (FrontEnd Develober)
 </h1>
 <p align='center'>
   I am a front-end developer specializing in HTML5, CSS3, and JavaScript, with proficiency in Bootstrap, SASS, and React.js. I have a passion for crafting beautiful and responsive web applications. My portfolio showcases a variety of projects that highlight my skills in creating intuitive user interfaces and implementing modern web technologies.I am proficient in handling APIs and have successfully and creating animations
