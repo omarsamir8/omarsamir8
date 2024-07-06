@@ -10,12 +10,13 @@
   </a>
 </p>
 <br/>
-
+<div align="center">
 - :man_technologist: As a CS student, I'm constantly learning and exploring new technologies to improve my skills
 - :rocket: Always ready to collaborate for Dev Experiments
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :trophy: Always searching for challenges to level up:fire: :mechanical_arm:
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+<div/>
 <br/>
 <h2 align="center"> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Connect with me </h2>
 <br/>
