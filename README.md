@@ -3,7 +3,14 @@
 </h1>
 
 <p align='center'>
- I am a front-end developer specializing in HTML5, CSS3, and JavaScript, with proficiency in Bootstrap, SASS, and React.js. I have a passion for crafting beautiful and responsive web applications. My portfolio showcases a variety of projects that highlight my skills in creating intuitive user interfaces and implementing modern web technologies. I am proficient in handling APIs and excel in creating animations, ensuring dynamic and engaging user experiences.
+ Fullstack Web Developer with a strong foundation in computer science, holding a degree
+from the College of Computers and Artificial Intelligence. Experienced in developing and
+maintaining responsive, dynamic, and user-friendly websites and applications. Proficient in
+frontend technologies including HTML5, CSS3, JavaScript, Sass, Bootstrap 5, and modern
+frameworks like React.js and Next.js.
+On the backend, knowledgeable in Node.js for building scalable APIs and server-side logic.
+Familiar with working with TypeScript, AJAX, JSON, and RESTful APIs.
+
 </p>
 
 <p align="center">
