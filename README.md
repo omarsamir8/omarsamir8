@@ -3,10 +3,10 @@
 </h1>
 
 <p align='center'>
- Fullstack Web Developer with a strong foundation in computer science, holding a degree
+ Frontend Web Developer with a strong foundation in computer science, holding a degree
 from the College of Computers and Artificial Intelligence. Experienced in developing and
 maintaining responsive, dynamic, and user-friendly websites and applications. Proficient in
-frontend technologies including HTML5, CSS3, JavaScript, Sass, Bootstrap 5, and modern
+frontend technologies including HTML5, CSS3, JavaScript, Sass, Bootstrap 5,Talwind Css and modern
 frameworks like React.js and Next.js.
 On the backend, knowledgeable in Node.js for building scalable APIs and server-side logic.
 Familiar with working with TypeScript, AJAX, JSON, and RESTful APIs.
